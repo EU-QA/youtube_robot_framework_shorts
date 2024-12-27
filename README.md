@@ -35,4 +35,19 @@ Como fazer um laço FOR no Robot Framework!? #9 #shorts
 Porque utilizar Setup e Teardown nos testes com Robot Framework #10 #shorts
 - https://youtube.com/shorts/rAPVYh691SM?feature=share
 
-Adicionar link dos vídeos 11 a 17 relativo aos códigos 10 a 16 quando lançar
+Como logar informações na tela com Robot Framework? #11
+- https://youtube.com/shorts/Nq5DpFWcuPQ?feature=share
+
+Alterando o nível de log pelo terminal no Robot Framework #12
+- https://youtube.com/shorts/06ZW7MkB6m8?feature=share
+
+Alterando o nível de log com keyword no Robot Framework #13
+- https://youtube.com/shorts/hG8MyBJrL_A?feature=share
+
+Como escolher o diretório que vou salvar os resultados do teste com Robot framework? #14
+- https://youtube.com/shorts/JmEv0OfVyqs?feature=share
+
+## Pendente gravar vídeos
+14_incluir_tags.robot
+15_excluir_tags.robot
+16_criando_kyd.robot
